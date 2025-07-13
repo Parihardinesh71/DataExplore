@@ -1,0 +1,8 @@
+{
+  "name": "Grocery Voice Ledger",
+  "description": "A multi-page voice-powered AI assistant for grocery stores. Features a welcome page, customer directory, transaction ledger, and a final page to share balance summaries via WhatsApp.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
